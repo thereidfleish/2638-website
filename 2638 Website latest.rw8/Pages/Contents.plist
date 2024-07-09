@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>HomePage</key>
+				<string>01-Home</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-Home</string>
+				<string>02-countdown</string>
+				<string>03-App-Rec-Countdown</string>
+				<string>04-Team-Updates</string>
+				<string>05-About</string>
+				<string>06-Media</string>
+				<string>07-Safety</string>
+				<string>08-Supporters</string>
+				<string>09-Impact</string>
+				<string>10-Contact</string>
+				<string>11-About-this-Website</string>
+				<string>12-403</string>
+				<string>13-404</string>
+				<string>14-EE1</string>
+				<string>15-EE2</string>
+				<string>16-EE3</string>
+				<string>17-EE4</string>
+				<string>18-EE5</string>
+				<string>19-EE6</string>
+				<string>20-STIMS</string>
+				<string>21-Reid</string>
+				<string>22-A-Young-Reid-Fleishman</string>
+				<string>23-Scout</string>
+				<string>24-Handbook-redirect</string>
+				<string>25-Facebook-redirect</string>
+				<string>26-Discord-redirect</string>
+				<string>27-Flyer-redirect</string>
+				<string>28-CAD-redirect</string>
+				<string>29-Robotics-Sign-Up-Form</string>
+				<string>30-Corn</string>
+				<string>31-I-Love-Robotics</string>
+				<string>32-D83D-Members</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

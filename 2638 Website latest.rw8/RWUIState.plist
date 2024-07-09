@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedItems</key>
+	<array>
+		<string>page19</string>
+		<string>page1</string>
+		<string>page25</string>
+		<string>page2</string>
+		<string>page3</string>
+		<string>page18</string>
+		<string>page23</string>
+		<string>page51</string>
+		<string>page21</string>
+		<string>page69</string>
+		<string>page72</string>
+	</array>
+	<key>pageInspectorVisible</key>
+	<true/>
+	<key>projectViewVisible</key>
+	<true/>
+	<key>projectViewWidth</key>
+	<real>252</real>
+	<key>selectedInspectorTab</key>
+	<string>pageSettings</string>
+	<key>selectedItems</key>
+	<array>
+		<string>page123</string>
+	</array>
+	<key>selectedMode</key>
+	<integer>0</integer>
+</dict>
+</plist>
