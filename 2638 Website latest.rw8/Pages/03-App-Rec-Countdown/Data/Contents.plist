@@ -16,7 +16,7 @@
 					<string>95FBEBB5-FF7B-424E-9E28-42B3C45F4EF3.jpg</string>
 				</array>
 				<key>previousImageLibraryPath</key>
-				<string>/Users/reidfleishman/Library/Containers/com.realmacsoftware.rapidweaver8/Data/Library/Application Support/Stacks 4/Stacks Image Backup 24-07-08 #191300BE6</string>
+				<string>/Users/reidfleishman/Library/Containers/com.realmacsoftware.rapidweaver8/Data/Library/Application Support/Stacks 4/Stacks Image Backup 24-07-11 #21451830D</string>
 				<key>stacks3</key>
 				<data>
 				YnBsaXN0MDDUAAEAAgADAAQABQAGAAcADFgkdmVyc2lv
@@ -778,9 +778,9 @@
 				WgBaAFoAWoAJgAmACYAJgA3SAHcALAXdAHukAFoAWgBa
 				AFqACYAJgAmACYAN0gB3ACwF5AB7pABaAFoAWgBagAmA
 				CYAJgAmADdIAdwAsBesAe6QAWgBaAFoAWoAJgAmACYAJ
-				gA3TALUAdwAsBfIF9gC4owXzBfQF9YEBX4EBYIEBYaMA
-				OQX4ADmABoEBYoAGgBleZW5hYmxlX3R5cGVraXRadHlw
-				ZWtpdF9pZF8QFWNvbGxhcHNlX2luX2VkaXRfbW9kZV8Q
+				gA3TALUAdwAsBfIF9gC4owXzBfQF9YEBX4EBYIEBYaMF
+				9wA5ADmBAWKABoAGgBladHlwZWtpdF9pZF8QFWNvbGxh
+				cHNlX2luX2VkaXRfbW9kZV5lbmFibGVfdHlwZWtpdF8Q
 				D3lvdXJfdHlwZWtpdF9pZNIAdwAsBgAAwqEGAYEBZIAw
 				3xAsAA8AEAARABIAEwAUABUAFgAXABgAGQAaABsGBAAc
 				AB0AHgAfACAAIQAiACMAJAAlACYAJwAoACkAKgArACwA
@@ -3399,8 +3399,8 @@
 				YX8AAGGBAABhgwAAYYUAAGGOAABhlwAAYZkAAGGbAABh
 				nQAAYZ8AAGGhAABhqgAAYbMAAGG1AABhtwAAYbkAAGG7
 				AABhvQAAYcYAAGHPAABh0QAAYdMAAGHVAABh1wAAYdkA
-				AGHmAABh7QAAYfAAAGHzAABh9gAAYf0AAGH/AABiAgAA
-				YgQAAGIGAABiFQAAYiAAAGI4AABiSgAAYlMAAGJWAABi
+				AGHmAABh7QAAYfAAAGHzAABh9gAAYf0AAGIAAABiAgAA
+				YgQAAGIGAABiEQAAYikAAGI4AABiSgAAYlMAAGJWAABi
 				WQAAYlsAAGMOAABjFwAAYyQAAGMmAABjKAAAYyoAAGMt
 				AABjLwAAYzIAAGM0AABjNwAAYzkAAGM8AABjPgAAY0AA
 				AGNCAABjRQAAY0gAAGNKAABjTAAAY08AAGNSAABjVQAA
@@ -4838,11 +4838,11 @@
 				<key>storedFiles</key>
 				<dict>
 					<key>031BEAA8-F082-4E60-991C-886AA8172E36.png</key>
-					<string>/Volumes/Extreme SSD/RapidWeaver Stuff/2638/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/031BEAA8-F082-4E60-991C-886AA8172E36.png</string>
+					<string>/Users/reidfleishman/Documents/GitHub/2638-website/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/031BEAA8-F082-4E60-991C-886AA8172E36.png</string>
 					<key>1D609FA1-6C79-4B87-B0E7-9DE8630FBFDF.png</key>
-					<string>/Volumes/Extreme SSD/RapidWeaver Stuff/2638/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/1D609FA1-6C79-4B87-B0E7-9DE8630FBFDF.png</string>
+					<string>/Users/reidfleishman/Documents/GitHub/2638-website/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/1D609FA1-6C79-4B87-B0E7-9DE8630FBFDF.png</string>
 					<key>95FBEBB5-FF7B-424E-9E28-42B3C45F4EF3.jpg</key>
-					<string>/Volumes/Extreme SSD/RapidWeaver Stuff/2638/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/95FBEBB5-FF7B-424E-9E28-42B3C45F4EF3.jpg</string>
+					<string>/Users/reidfleishman/Documents/GitHub/2638-website/2638 Website latest.rw8/Pages/03-App-Rec-Countdown/Data/95FBEBB5-FF7B-424E-9E28-42B3C45F4EF3.jpg</string>
 				</dict>
 				<key>version</key>
 				<string>4.3.0</string>
