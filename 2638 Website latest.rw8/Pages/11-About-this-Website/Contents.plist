@@ -33,7 +33,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2024-06-25T02:05:22Z</date>
+						<date>2024-07-29T00:04:23Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -77,6 +77,16 @@
 								</data>
 								<key>Size</key>
 								<integer>231327</integer>
+							</dict>
+							<key>files/card_overlay_img-306.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								73laFDJvkneY
+								vwdFmEEDRw==
+								</data>
+								<key>Size</key>
+								<integer>6296</integer>
 							</dict>
 							<key>files/droplet-filler-banner.jpg</key>
 							<dict>
@@ -218,25 +228,35 @@
 								<key>Size</key>
 								<integer>96151</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wANifJ2yGeIS
+								vLjVRAp1mw==
+								</data>
+								<key>Size</key>
+								<integer>1296</integer>
+							</dict>
 							<key>files/stacks_page_page23.css</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								SGant/Yl1nI0
-								66NbwUkI3Q==
+								MwXv0q7BdC/l
+								97wg0vEaZg==
 								</data>
 								<key>Size</key>
-								<integer>201749</integer>
+								<integer>214348</integer>
 							</dict>
 							<key>files/stacks_page_page23.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								RtuWHQZ5Q6zy
-								RPNJed24nA==
+								BcKcdSO5LFh+
+								O7eCoQvsUw==
 								</data>
 								<key>Size</key>
-								<integer>83120</integer>
+								<integer>83696</integer>
 							</dict>
 							<key>files/thumbnail-172.jpg</key>
 							<dict>
@@ -278,6 +298,16 @@
 								<key>Size</key>
 								<integer>51319</integer>
 							</dict>
+							<key>files/thumbnail-306.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								NSPCL+C9DSTP
+								Bq2PrPpq8A==
+								</data>
+								<key>Size</key>
+								<integer>11117</integer>
+							</dict>
 							<key>files/top_bottom_filler_image.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -292,11 +322,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								nmiY2VXVNLDf
-								ksiZDk3MtA==
+								F7lq22cER2x1
+								Hqll38Cn5g==
 								</data>
 								<key>Size</key>
-								<integer>38573</integer>
+								<integer>44217</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
