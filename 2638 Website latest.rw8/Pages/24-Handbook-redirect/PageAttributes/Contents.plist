@@ -28,7 +28,7 @@
 					<key>sftp:/gnsrobotics.com:8081/web-robotics/gnsrobotics</key>
 					<true/>
 					<key>sftp:/gnsrobotics.com:8082/web-robotics/gnsrobotics</key>
-					<false/>
+					<true/>
 				</dict>
 				<key>ColourStyles</key>
 				<dict/>

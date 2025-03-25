@@ -16,7 +16,7 @@
 					<key>page0 - sftp:/gnsrobotics.com:8082/web-robotics/gnsrobotics</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2025-03-19T21:26:28Z</date>
+						<date>2025-03-21T12:44:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -175,11 +175,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								cEs6F/FHAdKE
-								kJVOsyNoXA==
+								DPtkPuyOHLXS
+								oroZWU2yFw==
 								</data>
 								<key>Size</key>
-								<integer>57242</integer>
+								<integer>57237</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -8364,7 +8364,7 @@
 					<key>page132 - sftp:/gnsrobotics.com:8082/web-robotics/gnsrobotics</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2025-03-19T21:26:28Z</date>
+						<date>2025-03-21T12:44:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -8449,6 +8449,16 @@
 								<key>Size</key>
 								<integer>96151</integer>
 							</dict>
+							<key>files/stacks.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wANifJ2yGeIS
+								vLjVRAp1mw==
+								</data>
+								<key>Size</key>
+								<integer>1296</integer>
+							</dict>
 							<key>files/stacks_page_page132.css</key>
 							<dict>
 								<key>Digest</key>
@@ -8483,11 +8493,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6SMpBnEmd7Iz
-								wjhFTa9R6w==
+								qhxqFnPdBH7k
+								/K9YXv0+Jg==
 								</data>
 								<key>Size</key>
-								<integer>19777</integer>
+								<integer>19768</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -23738,7 +23748,7 @@
 					<key>rw:plugin:stacks - sftp:/gnsrobotics.com:8082/web-robotics/gnsrobotics</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2025-03-19T21:26:28Z</date>
+						<date>2025-03-21T12:44:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -23777,11 +23787,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								sB17SRzW/1eB
-								GvjykF8tSg==
+								ZD1pETkqM5jL
+								FgeZPtq/pw==
 								</data>
 								<key>Size</key>
-								<integer>115793</integer>
+								<integer>111633</integer>
 							</dict>
 							<key>animsition.css</key>
 							<dict>
@@ -24513,16 +24523,6 @@
 								<key>Size</key>
 								<integer>5730</integer>
 							</dict>
-							<key>jquery.superscrollorama.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kCacnfq+sYzO
-								wtw6eJjoAQ==
-								</data>
-								<key>Size</key>
-								<integer>16322</integer>
-							</dict>
 							<key>jwlib-glass.min.js</key>
 							<dict>
 								<key>Digest</key>
@@ -24617,11 +24617,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								s1Sjx7tGGhdp
-								xgbRDCP3Rg==
+								3gIam53oUMiX
+								3qF0E9mbLA==
 								</data>
 								<key>Size</key>
-								<integer>2336</integer>
+								<integer>1856</integer>
 							</dict>
 							<key>timed-content.css</key>
 							<dict>
@@ -24792,7 +24792,7 @@
 				CoANgAxfECQ3QUY0QjdDOS04RDU1LTQwNDAtOUQ4NC03
 				QzM0MzkyQTIzMUVdQlJVU0hTQ0kud29mZl8QJDgyMDQx
 				QUFCLTBEMzYtNDI0Qi1CNEI2LTE3NTY5ODA5RUQ1MdJH
-				D0hJV05TLnRpbWUjQcbFtzBfsOaADtImJ0tMVk5TRGF0
+				D0hJV05TLnRpbWUjQcbGy9bTupGADtImJ0tMVk5TRGF0
 				ZaJLK9MNDg9OVVymT1BRUlNUgBCAEYASgBOAFIAVplZW
 				VlZWVoAWgBaAFoAWgBaAFoAXXxAiZmlsZTovLy9Wb2x1
 				bWVzL3dlYi0xL2duc3JvYm90aWNzL18QIGZpbGU6Ly8v
@@ -24943,7 +24943,7 @@
 							<key>label</key>
 							<string>FTP</string>
 							<key>lastBackup</key>
-							<date>2025-03-19T21:28:00Z</date>
+							<date>2025-03-21T12:48:45Z</date>
 							<key>maxConnections</key>
 							<integer>3</integer>
 							<key>path</key>
