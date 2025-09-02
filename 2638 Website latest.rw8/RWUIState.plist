@@ -4,7 +4,9 @@
 <dict>
 	<key>expandedItems</key>
 	<array>
+		<string>page19</string>
 		<string>page1</string>
+		<string>page25</string>
 		<string>page2</string>
 		<string>page3</string>
 		<string>page18</string>
@@ -24,9 +26,9 @@
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page19</string>
+		<string>page29</string>
 	</array>
 	<key>selectedMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>
