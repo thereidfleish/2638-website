@@ -5,19 +5,12 @@
 	<key>expandedItems</key>
 	<array>
 		<string>page19</string>
-		<string>page1</string>
-		<string>page25</string>
 		<string>page2</string>
 		<string>page3</string>
-		<string>page18</string>
 		<string>page23</string>
-		<string>page51</string>
-		<string>page21</string>
-		<string>page69</string>
-		<string>page72</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<true/>
+	<false/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
@@ -26,7 +19,7 @@
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page29</string>
+		<string>page0</string>
 	</array>
 	<key>selectedMode</key>
 	<integer>1</integer>
