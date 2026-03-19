@@ -26528,7 +26528,7 @@
 					<key>rw:plugin:stacks - sftp:/gnsrobotics.com:8082/web-robotics/gnsrobotics</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-03-19T01:17:05Z</date>
+						<date>2026-03-19T01:30:51Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -27303,16 +27303,6 @@
 								<key>Size</key>
 								<integer>5730</integer>
 							</dict>
-							<key>jquery.superscrollorama.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kCacnfq+sYzO
-								wtw6eJjoAQ==
-								</data>
-								<key>Size</key>
-								<integer>16322</integer>
-							</dict>
 							<key>jwlib-glass.min.js</key>
 							<dict>
 								<key>Digest</key>
@@ -27407,11 +27397,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5lq/FKnH+iOu
-								WkmGG3bOgw==
+								XTEUe9iIlwWe
+								uU/IcmxVAA==
 								</data>
 								<key>Size</key>
-								<integer>2416</integer>
+								<integer>1920</integer>
 							</dict>
 							<key>timed-content.css</key>
 							<dict>
@@ -27582,7 +27572,7 @@
 				CoANgAxfECQ3QUY0QjdDOS04RDU1LTQwNDAtOUQ4NC03
 				QzM0MzkyQTIzMUVdQlJVU0hTQ0kud29mZl8QJDgyMDQx
 				QUFCLTBEMzYtNDI0Qi1CNEI2LTE3NTY5ODA5RUQ1MdJH
-				D0hJV05TLnRpbWUjQce1wyjUK3yADtImJ0tMVk5TRGF0
+				D0hJV05TLnRpbWUjQce1xLllcpOADtImJ0tMVk5TRGF0
 				ZaJLK9MNDg9OVVymT1BRUlNUgBCAEYASgBOAFIAVplZW
 				VlZWVoAWgBaAFoAWgBaAFoAXXxAiZmlsZTovLy9Wb2x1
 				bWVzL3dlYi0xL2duc3JvYm90aWNzL18QIGZpbGU6Ly8v
@@ -27733,7 +27723,7 @@
 							<key>label</key>
 							<string>FTP</string>
 							<key>lastBackup</key>
-							<date>2026-03-19T01:18:08Z</date>
+							<date>2026-03-19T01:31:30Z</date>
 							<key>maxConnections</key>
 							<integer>3</integer>
 							<key>path</key>
