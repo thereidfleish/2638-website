@@ -4,7 +4,6 @@
 <dict>
 	<key>expandedItems</key>
 	<array>
-		<string>page19</string>
 		<string>page1</string>
 		<string>page25</string>
 		<string>page2</string>
@@ -17,7 +16,7 @@
 		<string>page72</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<true/>
+	<false/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
@@ -26,9 +25,9 @@
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page26</string>
+		<string>page0</string>
 	</array>
 	<key>selectedMode</key>
-	<integer>1</integer>
+	<integer>0</integer>
 </dict>
 </plist>
