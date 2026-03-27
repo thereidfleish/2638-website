@@ -33,20 +33,20 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2025-01-22T05:13:28Z</date>
+						<date>2025-10-29T00:09:13Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
 						<dict>
-							<key>files/stacks.css</key>
+							<key>files/site_bkg_image-1-749.jpg</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								QWabS4Bvbrg3
-								rYiySU6nCA==
+								o6dm0gn/YhOV
+								RiSJE+0+Iw==
 								</data>
 								<key>Size</key>
-								<integer>1288</integer>
+								<integer>96151</integer>
 							</dict>
 							<key>files/stacks_page_page3.css</key>
 							<dict>
