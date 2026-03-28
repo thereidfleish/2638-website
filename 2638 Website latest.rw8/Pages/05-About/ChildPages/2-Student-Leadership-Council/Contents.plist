@@ -33,7 +33,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-03-19T11:37:11Z</date>
+						<date>2026-03-27T19:04:35Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -98,26 +98,6 @@
 								<key>Size</key>
 								<integer>14843</integer>
 							</dict>
-							<key>files/card_overlay_img-5094.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								S2BQH/UZATKO
-								mmXOgL2RoQ==
-								</data>
-								<key>Size</key>
-								<integer>26512</integer>
-							</dict>
-							<key>files/card_overlay_img-5307.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								xq5OdsjrFBPt
-								KM6xJ8QcoA==
-								</data>
-								<key>Size</key>
-								<integer>13044</integer>
-							</dict>
 							<key>files/card_overlay_img-5367.png</key>
 							<dict>
 								<key>Digest</key>
@@ -137,16 +117,6 @@
 								</data>
 								<key>Size</key>
 								<integer>49849</integer>
-							</dict>
-							<key>files/card_overlay_img-5428.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kobhmnGmHX/J
-								JMZfUSDcZQ==
-								</data>
-								<key>Size</key>
-								<integer>13991</integer>
 							</dict>
 							<key>files/card_overlay_img-5437.jpg</key>
 							<dict>
@@ -498,16 +468,6 @@
 								<key>Size</key>
 								<integer>96151</integer>
 							</dict>
-							<key>files/stacks.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wANifJ2yGeIS
-								vLjVRAp1mw==
-								</data>
-								<key>Size</key>
-								<integer>1296</integer>
-							</dict>
 							<key>files/stacks_page_page25.css</key>
 							<dict>
 								<key>Digest</key>
@@ -588,26 +548,6 @@
 								<key>Size</key>
 								<integer>14011</integer>
 							</dict>
-							<key>files/thumbnail-5094.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								nXoM9gQnTiUo
-								pQMo30jP2Q==
-								</data>
-								<key>Size</key>
-								<integer>11828</integer>
-							</dict>
-							<key>files/thumbnail-5307.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								gRQFs8LkhzJs
-								xogCLMSXvA==
-								</data>
-								<key>Size</key>
-								<integer>13039</integer>
-							</dict>
 							<key>files/thumbnail-5367.png</key>
 							<dict>
 								<key>Digest</key>
@@ -627,16 +567,6 @@
 								</data>
 								<key>Size</key>
 								<integer>75146</integer>
-							</dict>
-							<key>files/thumbnail-5428.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								TuLNQmyXwhj2
-								WLvY96misw==
-								</data>
-								<key>Size</key>
-								<integer>13965</integer>
 							</dict>
 							<key>files/thumbnail-5437.jpg</key>
 							<dict>
@@ -922,11 +852,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Up9YCVA0F8I3
-								JGqPOzyvgw==
+								Hd9oa1uxhaow
+								YmVDBsxrwA==
 								</data>
 								<key>Size</key>
-								<integer>64350</integer>
+								<integer>64348</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

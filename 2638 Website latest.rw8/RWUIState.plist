@@ -10,20 +10,21 @@
 		<string>page3</string>
 		<string>page18</string>
 		<string>page23</string>
+		<string>page21</string>
 	</array>
 	<key>pageInspectorVisible</key>
-	<true/>
+	<false/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
-	<real>200</real>
+	<real>331</real>
 	<key>selectedInspectorTab</key>
 	<string>pageSettings</string>
 	<key>selectedItems</key>
 	<array>
-		<string>page48</string>
+		<string>Publishing Configuration View</string>
 	</array>
 	<key>selectedMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 </dict>
 </plist>
