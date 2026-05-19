@@ -33,7 +33,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-03-19T11:37:11Z</date>
+						<date>2026-04-27T16:21:55Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -87,6 +87,16 @@
 								</data>
 								<key>Size</key>
 								<integer>6296</integer>
+							</dict>
+							<key>files/card_overlay_img-374.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								YEfcEXvfAsxY
+								sJbcHzJWIA==
+								</data>
+								<key>Size</key>
+								<integer>490423</integer>
 							</dict>
 							<key>files/droplet-filler-banner.jpg</key>
 							<dict>
@@ -232,18 +242,18 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								U7TfkxzGZ47d
-								WkWbFtrR2g==
+								Qa9TYdGoHJ6L
+								f0z9LFFeaw==
 								</data>
 								<key>Size</key>
-								<integer>216294</integer>
+								<integer>218448</integer>
 							</dict>
 							<key>files/stacks_page_page23.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								7JCgrOxxk+Lm
-								fziQmZ1OEA==
+								qPQJUkuA5Bt3
+								fQrSf9iitQ==
 								</data>
 								<key>Size</key>
 								<integer>83890</integer>
@@ -298,6 +308,16 @@
 								<key>Size</key>
 								<integer>11117</integer>
 							</dict>
+							<key>files/thumbnail-374.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								CvgHZx55qG2a
+								o0w2v/EIhQ==
+								</data>
+								<key>Size</key>
+								<integer>12508</integer>
+							</dict>
 							<key>files/top_bottom_filler_image.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -312,11 +332,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								+71gxg5jcBrN
-								chdyE0Qvww==
+								xx/x7jDIHdEs
+								eHL5fsLlgw==
 								</data>
 								<key>Size</key>
-								<integer>44778</integer>
+								<integer>46325</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
