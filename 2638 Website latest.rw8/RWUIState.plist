@@ -3,22 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>expandedItems</key>
-	<array>
-		<string>page1</string>
-		<string>page25</string>
-		<string>page2</string>
-		<string>page3</string>
-		<string>page18</string>
-		<string>page23</string>
-	</array>
+	<array/>
 	<key>pageInspectorVisible</key>
-	<true/>
+	<false/>
 	<key>projectViewVisible</key>
 	<true/>
 	<key>projectViewWidth</key>
-	<real>200</real>
+	<real>248</real>
 	<key>selectedInspectorTab</key>
-	<string>pageSettings</string>
+	<string>info</string>
 	<key>selectedItems</key>
 	<array>
 		<string>page0</string>
