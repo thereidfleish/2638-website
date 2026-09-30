@@ -33,7 +33,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-05-19T03:07:59Z</date>
+						<date>2026-09-30T05:05:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -132,11 +132,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								n1uazPhjvNwH
-								pf6RD42AaA==
+								Yzq7kLReoftt
+								K0nMAStNQg==
 								</data>
 								<key>Size</key>
-								<integer>303467</integer>
+								<integer>302618</integer>
 							</dict>
 							<key>files/stacks_page_page14.js</key>
 							<dict>
@@ -162,8 +162,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								WNGPeFMthxeR
-								ImLEWkOF9w==
+								/oM+HS+tKsY1
+								Mva03kyjEA==
 								</data>
 								<key>Size</key>
 								<integer>65114</integer>
