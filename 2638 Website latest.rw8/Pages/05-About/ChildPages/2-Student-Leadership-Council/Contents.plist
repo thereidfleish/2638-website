@@ -33,7 +33,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-09-30T05:05:49Z</date>
+						<date>2026-10-10T02:19:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -388,6 +388,126 @@
 								<key>Size</key>
 								<integer>26512</integer>
 							</dict>
+							<key>files/card_overlay_img-6958.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-6973.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-6984.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								z2CvSGX8AIAx
+								XL+tzNzdwQ==
+								</data>
+								<key>Size</key>
+								<integer>49849</integer>
+							</dict>
+							<key>files/card_overlay_img-6992.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								H+J1p6kiSixa
+								sRTN6218Sg==
+								</data>
+								<key>Size</key>
+								<integer>13770</integer>
+							</dict>
+							<key>files/card_overlay_img-6999.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-7015.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-7031.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-7038.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-7048.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Soy805zp/E6X
+								9Ej4tvODrA==
+								</data>
+								<key>Size</key>
+								<integer>14843</integer>
+							</dict>
+							<key>files/card_overlay_img-7056.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ieRwnxAROrRa
+								vy2IyVnlCw==
+								</data>
+								<key>Size</key>
+								<integer>17656</integer>
+							</dict>
+							<key>files/card_overlay_img-7070.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
+							<key>files/card_overlay_img-7124.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								UEnwMgCIxlTA
+								beiU0RqijA==
+								</data>
+								<key>Size</key>
+								<integer>13236</integer>
+							</dict>
 							<key>files/droplet-filler-banner.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -482,21 +602,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								wZIonIwkoAp+
-								dJYGHxiHtQ==
+								TrWPFF+YbdmR
+								laEMn3BG7w==
 								</data>
 								<key>Size</key>
-								<integer>285581</integer>
+								<integer>291798</integer>
 							</dict>
 							<key>files/stacks_page_page25.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								3xbqylXEAMF8
-								60ndf+el+A==
+								oYTCT93mgkGC
+								NrdHf48yJA==
 								</data>
 								<key>Size</key>
-								<integer>90738</integer>
+								<integer>91323</integer>
 							</dict>
 							<key>files/thumbnail-3704.jpg</key>
 							<dict>
@@ -848,6 +968,126 @@
 								<key>Size</key>
 								<integer>11828</integer>
 							</dict>
+							<key>files/thumbnail-6958.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-6973.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-6984.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								QltER+mjq2Cu
+								6Iq2mVWg4g==
+								</data>
+								<key>Size</key>
+								<integer>75146</integer>
+							</dict>
+							<key>files/thumbnail-6992.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								AI9E8oqBmMwV
+								yIdDP+Ul6Q==
+								</data>
+								<key>Size</key>
+								<integer>13328</integer>
+							</dict>
+							<key>files/thumbnail-6999.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-7015.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-7031.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-7038.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-7048.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								4Ee1WUoi/8WA
+								zGrrt+0XbQ==
+								</data>
+								<key>Size</key>
+								<integer>14011</integer>
+							</dict>
+							<key>files/thumbnail-7056.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								YNYkRwLVDOFQ
+								AAwWILEj5w==
+								</data>
+								<key>Size</key>
+								<integer>15581</integer>
+							</dict>
+							<key>files/thumbnail-7070.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
+							<key>files/thumbnail-7124.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								r2vFEW19mXVz
+								YutT9wzLZA==
+								</data>
+								<key>Size</key>
+								<integer>13214</integer>
+							</dict>
 							<key>files/top_bottom_filler_image.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -862,11 +1102,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								YDC4zG9y5sXZ
-								QJ+S0rDQgA==
+								uuZHQdo4Lom/
+								GuQiQk9Heg==
 								</data>
 								<key>Size</key>
-								<integer>64348</integer>
+								<integer>66015</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

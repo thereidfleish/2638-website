@@ -35,7 +35,7 @@
 					<key>sftp://gnsrobotics.com:8082</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2026-09-30T05:05:49Z</date>
+						<date>2026-10-10T02:19:42Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,16 +120,6 @@
 								<key>Size</key>
 								<integer>2885</integer>
 							</dict>
-							<key>files/image_stack_img-1958.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								xtBXLwIXQI+5
-								RoVDYw9SsA==
-								</data>
-								<key>Size</key>
-								<integer>15741</integer>
-							</dict>
 							<key>files/site_bkg_image-1-749.jpg</key>
 							<dict>
 								<key>Digest</key>
@@ -154,21 +144,21 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								JrCcUJ4HuEUN
-								Lbj0tmj3QA==
+								Af9IQzQ5wmFR
+								C9QGbzaiyQ==
 								</data>
 								<key>Size</key>
-								<integer>323752</integer>
+								<integer>254475</integer>
 							</dict>
 							<key>files/stacks_page_page0.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								MhylEO2m+qcW
-								1YvEMiD76g==
+								tFhD6uB9KlMN
+								pK5Pr9l4ig==
 								</data>
 								<key>Size</key>
-								<integer>409061</integer>
+								<integer>398573</integer>
 							</dict>
 							<key>files/stacks_page_page0.php</key>
 							<dict>
@@ -194,11 +184,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								T7rFcSz5FY1y
-								0TaiXJ8MNQ==
+								14/shf2RTw11
+								YSn1SKR+6w==
 								</data>
 								<key>Size</key>
-								<integer>81811</integer>
+								<integer>49144</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
